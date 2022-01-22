@@ -6,5 +6,5 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### 🤝🏻 &nbsp;Connect with me
-<a href="mailto:kangkai.ye@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/kangkai.ye@hotmail.com-00599C?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+<a href="mathias.mrsn@gmail.com"><img alt="Email" src="https://img.shields.io/badge/kangkai.ye@hotmail.com-00599C?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 
