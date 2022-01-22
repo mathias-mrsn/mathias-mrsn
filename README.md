@@ -7,5 +7,5 @@
 
 ### 🤝🏻 &nbsp;Projects done
 
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mamaurai/philosophers)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mamaurai/ft_printf)](https://github.com/JaeSeoKim/badge42)
 
