@@ -1,6 +1,6 @@
 ### :desktop_computer: &nbsp; Mathias MAURAISIN (Ecole 42)
 
-[![42 stats](https://badge42.herokuapp.com/api/stats/mamaurai?darkmode=true)](https://github.com/JaeSeoKim/badge42)
+[![mamaurai's 42 stats](https://badge42.vercel.app/api/v2/cl1l4qz93000609l4yixitcl4/stats?cursusId=21&coalitionId=45)](https://github.com/JaeSeoKim/badge42)
 
 ### &nbsp;Statistiques
 
