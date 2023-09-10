@@ -44,7 +44,11 @@
             <td>
                 <b>my main languages</b>
             </td>
-            <td class="line">
+            <td style="display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        max-width: 500px;
+        gap: 6px;">
                 <div class="icon">
                     <img class="like" src="images/like.png">
                     <img src="https://skillicons.dev/icons?i=c" />
