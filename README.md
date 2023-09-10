@@ -24,7 +24,7 @@ Hi, I'm supposed to say something about myself, but I don't know what to say, an
 
 
 
-## 📈&nbsp;Stats
+## 📈&nbsp;Lots of completely useless stats
 
 
 
