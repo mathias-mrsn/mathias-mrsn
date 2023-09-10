@@ -1,10 +1,6 @@
-### :desktop_computer: &nbsp; Mathias MAURAISIN (Ecole 42)
 
 ![snap](images/Snap_dark.png?raw=true)
 
-
-
-    
 <!-- [![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,)](https://skillicons.dev) -->
 
 <div >
@@ -17,7 +13,7 @@
                 <table>
                     <tr>
                         <td style="position: relative; width: 50px; height: 50px; border: none!important;">
-                            <img style="position: absolute; width: 20px; height: 20px; top: 65%; left: 65%;" src="images/like.png">
+                            <img style="position: absolute; width: 20px; height: 20px; top: 65%; left: 100%;" src="images/like.png">
                             <img src="https://skillicons.dev/icons?i=c" />
                         </td>
                         <td style="position: relative; width: 50px; height: 50px; border: none!important;">
@@ -150,6 +146,13 @@
 
 ### &nbsp;Statistiques
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathias-mrsn&layout=compact&bg_color=202020&title_color=f8f8f8&text_color=f8f8f8&icon_color=f8f8f8&border_color=202020)](https://github.com/anuraghazra/github-readme-stats)
 
-[![mamaurai's 42 stats](https://badge42.vercel.app/api/v2/cl1l4qz93000609l4yixitcl4/stats?cursusId=21&coalitionId=45)](https://github.com/JaeSeoKim/badge42)
+
+<!-- [![mamaurai's 42 stats](https://badge42.vercel.app/api/v2/cl1l4qz93000609l4yixitcl4/stats?cursusId=21&coalitionId=45)](https://github.com/JaeSeoKim/badge42) -->
+
+<table>
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathias-mrsn&layout=compact&bg_color=22272E&title_color=f8f8f8&text_color=f8f8f8&icon_color=f8f8f8&border_color=22272E"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=mathias-mrsn&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=22272E"/></td>
+  </tr>
+</table>
