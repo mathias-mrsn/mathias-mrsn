@@ -41,5 +41,6 @@ Hi, I'm supposed to say something about myself, but I don't know what to say, an
 <table style="border: 0px solid black;; border-collapse: collapse;">
   <tr>
     <td style="border: 0px solid black;"><img align="center" src="https://streak-stats.demolab.com?user=mathias-mrsn&theme=github-dark-dimmed" alt="mathias-mrsn" /></td>
+    <td style="border: 0px solid black;"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mathias_mrsn&bg_color=22272E" alt="mathias_mrsn" /></td>
   </tr>
 </table>
