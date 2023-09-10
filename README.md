@@ -1,24 +1,30 @@
 # Hi, I'm Brad Pitt 👋
 
+
 <a href="https://www.linkedin.com/in/mathias-mauraisin/" target="blank"><img align="center" src="./icons/linkedin.svg" alt="https://www.linkedin.com/in/mathias-mauraisin/" height="30" width="40" /></a>
 <a href="emailto:mathias.mauraisin.pro@gmail.com" target="blank"><img align="center" src="./icons/gmail.svg" alt="redrew" height="30" width="40" /></a>
 
 
 
 
-![snap](images/Snap_dark.png?raw=true)
+<!-- ![snap](images/Snap_dark.png?raw=true) -->
+![snap](images/Snap_dark_bg.png?raw=true)
 
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,)](https://skillicons.dev) -->
 
-<br>
+## 🙋‍♂️&nbsp;About Me
 
-<img src="./icons.svg" style="margin-left: 20px">
+Hi, I'm supposed to say something about myself, but I don't know what to say, and honestly, nobody cares, so just look at my work instead.
+
+## 🛠&nbsp;Skills
+
+<img src="./icons_2.svg" style="margin-left: 20px">
 
 
 
 
-### &nbsp;Statistiques
+## 📈&nbsp;Stats
 
 
 
