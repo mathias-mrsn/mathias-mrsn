@@ -4,16 +4,16 @@
 <!-- [![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,)](https://skillicons.dev) -->
 
 <div >
-    <table>
-        <tr>
+    <table style="border:0px solid white; width:100%;">
+        <tr style="border: 0px;">
             <td>
                 <b>my main languages</b>
             </td>
             <td style="display: flex; flex-direction: row; flex-wrap: wrap; max-width: 500px; gap: 6px;border: none!important;">
-                <table>
+                <!-- <table>
                     <tr>
                         <td style="position: relative; width: 50px; height: 50px; border: none!important;">
-                            <img style="position: absolute; width: 20px; height: 20px; top: 65%; left: 100%;" src="images/like.png">
+                            <img style="position: absolute; width: 20px; height: 20px; top: 65%; left: 65%;" src="images/like.png">
                             <img src="https://skillicons.dev/icons?i=c" />
                         </td>
                         <td style="position: relative; width: 50px; height: 50px; border: none!important;">
@@ -42,7 +42,8 @@
                             <img src="https://skillicons.dev/icons?i=md" />
                         </td>
                     </tr>
-                </table>
+                </table> -->
+                <img src="https://skillicons.dev/icons?i=c,cpp,docker,js,ts,html,css,md"/>
             </td> 
         </tr>
         <tr>
@@ -50,7 +51,7 @@
                 <b>my web stack</b>
             </td>
             <td style="display: flex; flex-direction: row; flex-wrap: wrap; max-width: 500px; gap: 6px;">
-                <div style="position: relative; width: 50px; height: 50px;">
+                <!-- <div style="position: relative; width: 50px; height: 50px;">
                     <img style="position: absolute; width: 20px; height: 20px; top: 65%; left: 65%;" src="images/like.png">
                     <img src="https://skillicons.dev/icons?i=react" />
                 </div>
@@ -73,7 +74,8 @@
                 </div>
                 <div style="position: relative; width: 50px; height: 50px;">
                     <img src="https://skillicons.dev/icons?i=figma" />
-                </div>
+                </div> -->
+                <img src="https://skillicons.dev/icons?i=react,nestjs,postgres,tailwindcss,nginx,nodejs,figma"/>
             </td> 
         </tr>
         <tr>
@@ -81,7 +83,7 @@
                 <b>also worked with</b>
             </td>
             <td style="display: flex; flex-direction: row; flex-wrap: wrap; max-width: 500px; gap: 6px;">
-                <div style="position: relative; width: 50px; height: 50px;">
+                <!-- <div style="position: relative; width: 50px; height: 50px;">
                     <img src="https://skillicons.dev/icons?i=vite" />
                 </div>
                 <div style="position: relative; width: 50px; height: 50px;">
@@ -120,7 +122,8 @@
                 </div>
                 <div style="position: relative; width: 50px; height: 50px;">
                     <img src="https://skillicons.dev/icons?i=bootstrap" />
-                </div>
+                </div> -->
+                <img src="https://skillicons.dev/icons?i=vite,vercel,threejs,sass,redux,prisma,postman,nextjs,mysql,materialui,java,php,bootstrap&perline=8"/>
             </td>  
         </tr>
         <tr>
@@ -128,7 +131,7 @@
                 <b>IDEs</b>
             </td>
             <td style="display: flex; flex-direction: row; flex-wrap: wrap; max-width: 500px; gap: 6px;">
-                <div style="position: relative; width: 50px; height: 50px;">
+                <!-- <div style="position: relative; width: 50px; height: 50px;">
                     <img style="position: absolute; width: 20px; height: 20px; top: 65%; left: 65%;" src="images/like.png">
                     <img src="https://skillicons.dev/icons?i=vscode" />
                 </div>
@@ -138,11 +141,14 @@
                 </div>
                 <div style="position: relative; width: 50px; height: 50px;">
                     <img src="https://skillicons.dev/icons?i=idea" />
-                </div>
+                </div> -->
+                <img src="https://skillicons.dev/icons?i=vscode,vim,idea"/>
             </td> 
         </tr>
     </table>
 </div>
+
+<img src="http://views.whatilearened.today/views/github/MrStanDu33/views.svg"/>
 
 ### &nbsp;Statistiques
 
