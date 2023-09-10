@@ -3,11 +3,11 @@
 <a href="https://www.linkedin.com/in/mathias-mauraisin/" target="blank"><img align="center" src="./icons/linkedin.svg" alt="https://www.linkedin.com/in/mathias-mauraisin/" height="30" width="40" /></a>
 <a href="emailto:mathias.mauraisin.pro@gmail.com" target="blank"><img align="center" src="./icons/gmail.svg" alt="redrew" height="30" width="40" /></a>
 
-<br>
 
 
 
 ![snap](images/Snap_dark.png?raw=true)
+
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,)](https://skillicons.dev) -->
 
@@ -23,6 +23,20 @@
 
 
 <!-- [![mamaurai's 42 stats](https://badge42.vercel.app/api/v2/cl1l4qz93000609l4yixitcl4/stats?cursusId=21&coalitionId=45)](https://github.com/JaeSeoKim/badge42) -->
+
+
+<style>
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+   border: 0px solid black;
+}
+blockquote {
+    border-left: solid blue;
+    padding-left: 10px;
+}
+</style>
 
 <table style="border: 0">
   <tr>
