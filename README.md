@@ -13,36 +13,36 @@
             <td>
                 <b>my main languages</b>
             </td>
-            <td style="display: flex; flex-direction: row; flex-wrap: wrap; max-width: 500px; gap: 6px;">
+            <td style="display: flex; flex-direction: row; flex-wrap: wrap; max-width: 500px; gap: 6px;border: none!important;">
                 <table>
                     <tr>
-                        <td style="position: relative; width: 50px; height: 50px;">
+                        <td style="position: relative; width: 50px; height: 50px; border: none!important;">
                             <img style="position: absolute; width: 20px; height: 20px; top: 65%; left: 65%;" src="images/like.png">
                             <img src="https://skillicons.dev/icons?i=c" />
                         </td>
-                        <td style="position: relative; width: 50px; height: 50px;">
+                        <td style="position: relative; width: 50px; height: 50px; border: none!important;">
                             <img style="position: absolute; width: 20px; height: 20px; top: 65%; left: 65%;" src="images/like.png">
                             <img src="https://skillicons.dev/icons?i=cpp" />
                         </td>
-                        <td style="position: relative; width: 50px; height: 50px;">
+                        <td style="position: relative; width: 50px; height: 50px; border: none!important;">
                             <img style="position: absolute; width: 20px; height: 20px; top: 65%; left: 65%;" src="images/like.png">
                             <img src="https://skillicons.dev/icons?i=docker" />
                         </td>
-                        <td style="position: relative; width: 50px; height: 50px;">
+                        <td style="position: relative; width: 50px; height: 50px; border: none!important;">
                             <img src="https://skillicons.dev/icons?i=js" />
                         </td>
-                        <td style="position: relative; width: 50px; height: 50px;">
+                        <td style="position: relative; width: 50px; height: 50px; border: none!important;">
                             <img style="position: absolute; width: 20px; height: 20px; top: 65%; left: 65%;" src="images/like.png">
                             <img src="https://skillicons.dev/icons?i=ts" />
                         </td>
-                        <td style="position: relative; width: 50px; height: 50px;">
+                        <td style="position: relative; width: 50px; height: 50px; border: none!important;">
                             <img style="position: absolute; width: 20px; height: 20px; top: 65%; left: 65%;" src="images/like.png">
                             <img src="https://skillicons.dev/icons?i=html" />
                         </td>
-                        <td style="position: relative; width: 50px; height: 50px;">
+                        <td style="position: relative; width: 50px; height: 50px; border: none!important;">
                             <img src="https://skillicons.dev/icons?i=css" />
                         </td>
-                        <td style="position: relative; width: 50px; height: 50px;">
+                        <td style="position: relative; width: 50px; height: 50px; border: none!important;">
                             <img src="https://skillicons.dev/icons?i=md" />
                         </td>
                     </tr>
