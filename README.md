@@ -148,7 +148,6 @@
     </table>
 </div>
 
-<img src="http://views.whatilearened.today/views/github/MrStanDu33/views.svg"/>
 
 ### &nbsp;Statistiques
 
