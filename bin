@@ -1,0 +1,144 @@
+<div >
+    <table style="border:0px solid white; width:100%;">
+        <tr style="border: 0px;">
+            <td>
+                <b>my main languages</b>
+            </td>
+            <td style="display: flex; flex-direction: row; flex-wrap: wrap; max-width: 500px; gap: 6px;border: none!important;">
+                <!-- <table>
+                    <tr>
+                        <td style="position: relative; width: 50px; height: 50px; border: none!important;">
+                            <img style="position: absolute; width: 20px; height: 20px; top: 65%; left: 65%;" src="images/like.png">
+                            <img src="https://skillicons.dev/icons?i=c" />
+                        </td>
+                        <td style="position: relative; width: 50px; height: 50px; border: none!important;">
+                            <img style="position: absolute; width: 20px; height: 20px; top: 65%; left: 65%;" src="images/like.png">
+                            <img src="https://skillicons.dev/icons?i=cpp" />
+                        </td>
+                        <td style="position: relative; width: 50px; height: 50px; border: none!important;">
+                            <img style="position: absolute; width: 20px; height: 20px; top: 65%; left: 65%;" src="images/like.png">
+                            <img src="https://skillicons.dev/icons?i=docker" />
+                        </td>
+                        <td style="position: relative; width: 50px; height: 50px; border: none!important;">
+                            <img src="https://skillicons.dev/icons?i=js" />
+                        </td>
+                        <td style="position: relative; width: 50px; height: 50px; border: none!important;">
+                            <img style="position: absolute; width: 20px; height: 20px; top: 65%; left: 65%;" src="images/like.png">
+                            <img src="https://skillicons.dev/icons?i=ts" />
+                        </td>
+                        <td style="position: relative; width: 50px; height: 50px; border: none!important;">
+                            <img style="position: absolute; width: 20px; height: 20px; top: 65%; left: 65%;" src="images/like.png">
+                            <img src="https://skillicons.dev/icons?i=html" />
+                        </td>
+                        <td style="position: relative; width: 50px; height: 50px; border: none!important;">
+                            <img src="https://skillicons.dev/icons?i=css" />
+                        </td>
+                        <td style="position: relative; width: 50px; height: 50px; border: none!important;">
+                            <img src="https://skillicons.dev/icons?i=md" />
+                        </td>
+                    </tr>
+                </table> -->
+                <img src="https://skillicons.dev/icons?i=c,cpp,docker,js,ts,html,css,md"/>
+            </td> 
+        </tr>
+        <tr>
+            <td>
+                <b>my web stack</b>
+            </td>
+            <td style="display: flex; flex-direction: row; flex-wrap: wrap; max-width: 500px; gap: 6px;">
+                <!-- <div style="position: relative; width: 50px; height: 50px;">
+                    <img style="position: absolute; width: 20px; height: 20px; top: 65%; left: 65%;" src="images/like.png">
+                    <img src="https://skillicons.dev/icons?i=react" />
+                </div>
+                <div style="position: relative; width: 50px; height: 50px;">
+                    <img style="position: absolute; width: 20px; height: 20px; top: 65%; left: 65%;" src="images/like.png">
+                    <img src="https://skillicons.dev/icons?i=nestjs" />
+                </div>
+                <div style="position: relative; width: 50px; height: 50px;">
+                    <img src="https://skillicons.dev/icons?i=postgres" />
+                </div>
+                <div style="position: relative; width: 50px; height: 50px;">
+                    <img style="position: absolute; width: 20px; height: 20px; top: 65%; left: 65%;" src="images/like.png">
+                    <img src="https://skillicons.dev/icons?i=tailwindcss" />
+                </div>
+                <div style="position: relative; width: 50px; height: 50px;">
+                    <img src="https://skillicons.dev/icons?i=nginx" />
+                </div>
+                <div style="position: relative; width: 50px; height: 50px;">
+                    <img src="https://skillicons.dev/icons?i=nodejs" />
+                </div>
+                <div style="position: relative; width: 50px; height: 50px;">
+                    <img src="https://skillicons.dev/icons?i=figma" />
+                </div> -->
+                <img src="https://skillicons.dev/icons?i=react,nestjs,postgres,tailwindcss,nginx,nodejs,figma"/>
+            </td> 
+        </tr>
+        <tr>
+            <td>
+                <b>also worked with</b>
+            </td>
+            <td style="display: flex; flex-direction: row; flex-wrap: wrap; max-width: 500px; gap: 6px;">
+                <!-- <div style="position: relative; width: 50px; height: 50px;">
+                    <img src="https://skillicons.dev/icons?i=vite" />
+                </div>
+                <div style="position: relative; width: 50px; height: 50px;">
+                    <img src="https://skillicons.dev/icons?i=vercel" />
+                </div>
+                <div style="position: relative; width: 50px; height: 50px;">
+                    <img src="https://skillicons.dev/icons?i=threejs" />
+                </div>
+                <div style="position: relative; width: 50px; height: 50px;">
+                    <img src="https://skillicons.dev/icons?i=sass" />
+                </div>
+                <div style="position: relative; width: 50px; height: 50px;">
+                    <img src="https://skillicons.dev/icons?i=redux" />
+                </div>
+                <div style="position: relative; width: 50px; height: 50px;">
+                    <img style="position: absolute; width: 20px; height: 20px; top: 65%; left: 65%;" src="images/like.png">
+                    <img src="https://skillicons.dev/icons?i=prisma" />
+                </div>
+                <div style="position: relative; width: 50px; height: 50px;">
+                    <img src="https://skillicons.dev/icons?i=postman" />
+                </div>
+                <div style="position: relative; width: 50px; height: 50px;">
+                    <img src="https://skillicons.dev/icons?i=nextjs" />
+                </div>
+                <div style="position: relative; width: 50px; height: 50px;">
+                    <img src="https://skillicons.dev/icons?i=mysql" />
+                </div>
+                <div style="position: relative; width: 50px; height: 50px;">
+                    <img src="https://skillicons.dev/icons?i=materialui" />
+                </div>
+                <div style="position: relative; width: 50px; height: 50px;">
+                    <img src="https://skillicons.dev/icons?i=java" />
+                </div>
+                <div style="position: relative; width: 50px; height: 50px;">
+                    <img src="https://skillicons.dev/icons?i=php" />
+                </div>
+                <div style="position: relative; width: 50px; height: 50px;">
+                    <img src="https://skillicons.dev/icons?i=bootstrap" />
+                </div> -->
+                <img src="https://skillicons.dev/icons?i=vite,vercel,threejs,sass,redux,prisma,postman,nextjs,mysql,materialui,java,php,bootstrap&perline=8"/>
+            </td>  
+        </tr>
+        <tr>
+            <td>
+                <b>IDEs</b>
+            </td>
+            <td style="display: flex; flex-direction: row; flex-wrap: wrap; max-width: 500px; gap: 6px;">
+                <!-- <div style="position: relative; width: 50px; height: 50px;">
+                    <img style="position: absolute; width: 20px; height: 20px; top: 65%; left: 65%;" src="images/like.png">
+                    <img src="https://skillicons.dev/icons?i=vscode" />
+                </div>
+                <div style="position: relative; width: 50px; height: 50px;">
+                    <img style="position: absolute; width: 20px; height: 20px; top: 65%; left: 65%;" src="images/like.png">
+                    <img src="https://skillicons.dev/icons?i=vim" />
+                </div>
+                <div style="position: relative; width: 50px; height: 50px;">
+                    <img src="https://skillicons.dev/icons?i=idea" />
+                </div> -->
+                <img src="https://skillicons.dev/icons?i=vscode,vim,idea"/>
+            </td> 
+        </tr>
+    </table>
+</div>
