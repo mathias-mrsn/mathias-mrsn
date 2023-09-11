@@ -2,7 +2,7 @@
 
 
 <a href="https://www.linkedin.com/in/mathias-mauraisin/" target="blank"><img align="center" src="./icons/linkedin.svg" alt="https://www.linkedin.com/in/mathias-mauraisin/" height="30" width="40" /></a>
-<a href="emailto:mathias.mauraisin.pro@gmail.com" target="blank"><img align="center" src="./icons/gmail.svg" alt="redrew" height="30" width="40" /></a>
+<a href="mailto:mathias.mauraisin.pro@gmail.com" target="blank"><img align="center" src="./icons/gmail.svg" alt="redrew" height="30" width="40" /></a>
 
 
 
