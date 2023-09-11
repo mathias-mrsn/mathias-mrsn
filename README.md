@@ -19,7 +19,16 @@ Hi, I'm supposed to say something about myself, but I don't know what to say, an
 
 ## 🛠&nbsp;Skills
 
-<img src="./icons_2.svg" style="margin-left: 20px">
+<img src="./icons_2.svg">
+
+<!-- ### &nbsp; My main languages
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,docker,js,ts,html,css,md)](https://skillicons.dev)
+### &nbsp; My web stack
+[![My Skills](https://skillicons.dev/icons?i=react,nestjs,postgres,tailwindcss,nginx,nodejs,figma)](https://skillicons.dev)
+### &nbsp; I have also worked with
+[![My Skills](https://skillicons.dev/icons?i=vite,vercel,threejs,sass,redux,prisma,postman,nextjs,mysql,materialui,java,php,bottstrap)](https://skillicons.dev)
+### &nbsp; IDEs
+[![My Skills](https://skillicons.dev/icons?i=vscode,vim,idea)](https://skillicons.dev) -->
 
 
 
@@ -44,3 +53,5 @@ Hi, I'm supposed to say something about myself, but I don't know what to say, an
     <td style="border: 0px solid black;"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mathias_mrsn&bg_color=22272E" alt="mathias_mrsn" /></td>
   </tr>
 </table>
+
+

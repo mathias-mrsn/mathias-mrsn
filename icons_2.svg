@@ -2,7 +2,7 @@
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <p
-                style="font-size: 18px; font-weight: 500; color: #fff; margin: 0px; margin-top: 6px; margin-bottom: 6px; font-family: sans-serif;">
+                style="font-size: 18px; font-weight: 600; color: #cfcfcf; margin: 0px; margin-top: 6px; margin-bottom: 6px; font-family: sans-serif; margin-left: 20px">
                 My main languages</p>
             <table>
                 <tr>
@@ -240,7 +240,7 @@
                 </tr>
             </table>
             <p
-                style="font-size: 18px; font-weight: 500; color: #fff; margin: 0px; margin-top: 6px; margin-bottom: 6px; font-family: sans-serif;">
+                style="font-size: 18px; font-weight: 600; color: #cfcfcf; margin: 0px; margin-top: 6px; margin-bottom: 6px; font-family: sans-serif; margin-left: 20px;">
                 My web stack</p>
 
             <table>
@@ -459,8 +459,8 @@
                 </tr>
             </table>
             <p
-                style="font-size: 18px; font-weight: 500; color: #fff; margin: 0px; margin-top: 6px; margin-bottom: 6px; font-family: sans-serif;">
-                Also worked with</p>
+                style="font-size: 18px; font-weight: 600; color: #cfcfcf; margin: 0px; margin-top: 6px; margin-bottom: 6px; font-family: sans-serif; margin-left: 20px;">
+                I have also worked with</p>
             <table>
                 <tr>
                     <td style="position: relative; width: 50px; height: 50px;">
@@ -884,7 +884,7 @@
             <!-- <img
             src="https://skillicons.dev/icons?i=vite,vercel,threejs,sass,redux,prisma,postman,nextjs,mysql,materialui,java,php,bootstrap&perline=8"/> -->
             <p
-                style="font-size: 18px; font-weight: 500; color: #fff; margin: 0px; margin-top: 6px; margin-bottom: 6px; font-family: sans-serif;">
+                style="font-size: 18px; font-weight: 600; color: #cfcfcf; margin: 0px; margin-top: 6px; margin-bottom: 6px; font-family: sans-serif; margin-left: 20px;">
                 IDEs</p>
             <table>
                 <tr>
