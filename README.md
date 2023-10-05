@@ -15,23 +15,26 @@
 
 ## 🙋‍♂️&nbsp;About Me
 
-Hi, I'm supposed to say something about myself, but I don't know what to say, and honestly, nobody cares, so just look at my work instead.
+Hi, I'm supposed to say something about myself but I don't know what to say, and honestly, nobody cares so just look at my work instead.
 
-## 🛠&nbsp;Skills
+## 🌐&nbsp;Languages
 
-<img src="./icons_2.svg">
-
-<!-- ### &nbsp; My main languages
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,docker,js,ts,html,css,md)](https://skillicons.dev)
-### &nbsp; My web stack
-[![My Skills](https://skillicons.dev/icons?i=react,nestjs,postgres,tailwindcss,nginx,nodejs,figma)](https://skillicons.dev)
-### &nbsp; I have also worked with
-[![My Skills](https://skillicons.dev/icons?i=vite,vercel,threejs,sass,redux,prisma,postman,nextjs,mysql,materialui,java,php,bottstrap)](https://skillicons.dev)
-### &nbsp; IDEs
-[![My Skills](https://skillicons.dev/icons?i=vscode,vim,idea)](https://skillicons.dev) -->
+<!-- <img src="./icons_2.svg"> -->
 
 
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,ts,html,css,markdown,java,php,&perline=10)](https://skillicons.dev)
 
+## 📕&nbsp;Frameworks and Libraries for Web Development
+
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,materialui,nestjs,postgres,express,nodejs,figma,vercel,&perline=10)](https://skillicons.dev)
+
+## 🔧&nbsp;Tools 
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,linux,docker,kubernetes,nginx,postman&perline=9)](https://skillicons.dev)
+
+## 📝&nbsp;IDEs
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,neovim,idea&perline=9)](https://skillicons.dev)
 
 ## 📈&nbsp;Lots of completely useless stats
 
