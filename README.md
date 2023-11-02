@@ -50,12 +50,6 @@ Hi, I'm supposed to say something about myself but I don't know what to say, and
     <td valign="top" style="border: 0px solid black;"><img src="https://github-readme-stats.vercel.app/api?username=mathias-mrsn&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=22272E"/></td>
   </tr>
 </table>
-<table style="border: 0px solid black;; border-collapse: collapse;">
-  <tr>
-    <td style="border: 0px solid black;"><img align="center" src="https://streak-stats.demolab.com?user=mathias-mrsn&theme=github-dark-dimmed" alt="mathias-mrsn" /></td>
-    <td style="border: 0px solid black;"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mathias_mrsn&bg_color=22272E" alt="mathias_mrsn" /></td>
-  </tr>
-</table>
 
 <!--START_SECTION:waka-->
 
