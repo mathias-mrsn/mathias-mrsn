@@ -47,8 +47,6 @@ Hi, I'm supposed to say something about myself but I don't know what to say, and
 <!--START_SECTION:waka-->
 
 ```rust
-From: 25 October 2023 - To: 01 November 2023
-
 Total Time: 27 hrs 39 mins
 
 Assembly    19 hrs 12 mins  █████████████████▒░░░░░░░   69.10 %
