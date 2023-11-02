@@ -36,20 +36,13 @@ Hi, I'm supposed to say something about myself but I don't know what to say, and
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,neovim,idea&perline=9)](https://skillicons.dev)
 
-## 📈&nbsp;Lots of completely useless stats
-
-
+## 📈&nbsp;Weekly development breakdown
 
 <!-- [![mamaurai's 42 stats](https://badge42.vercel.app/api/v2/cl1l4qz93000609l4yixitcl4/stats?cursusId=21&coalitionId=45)](https://github.com/JaeSeoKim/badge42) -->
 
 
 
-<table style="border: 0px solid black;; border-collapse: collapse;">
-  <tr>
-    <td valign="top" style="border: 0px solid black;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathias-mrsn&layout=compact&bg_color=22272E&title_color=f8f8f8&text_color=f8f8f8&icon_color=f8f8f8&border_color=22272E"/></td>
-    <td valign="top" style="border: 0px solid black;"><img src="https://github-readme-stats.vercel.app/api?username=mathias-mrsn&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=22272E"/></td>
-  </tr>
-</table>
+
 
 <!--START_SECTION:waka-->
 
