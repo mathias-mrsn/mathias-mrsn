@@ -46,7 +46,9 @@ Hi, I'm supposed to say something about myself but I don't know what to say, and
 
 <!--START_SECTION:waka-->
 
-```txt
+```rust
+Total Time: 27 hrs 39 mins
+
 Assembly    19 hrs 12 mins  █████████████████▒░░░░░░░   69.10 %
 C           3 hrs 6 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.19 %
 Makefile    2 hrs 40 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 %
