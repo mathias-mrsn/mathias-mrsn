@@ -58,6 +58,15 @@ Hi, I'm supposed to say something about myself but I don't know what to say, and
 </table>
 
 <!--START_SECTION:waka-->
+
+```txt
+Assembly    19 hrs 12 mins  █████████████████▒░░░░░░░   69.10 %
+C           3 hrs 6 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.19 %
+Makefile    2 hrs 40 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 %
+PHP         57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+Lua         38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+```
+
 <!--END_SECTION:waka-->
 
 
