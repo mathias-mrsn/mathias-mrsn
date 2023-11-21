@@ -47,13 +47,13 @@ Hi, I'm supposed to say something about myself but I don't know what to say, and
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 30 hrs 7 mins
+Total Time: 32 hrs 47 mins
 
-Assembly   25 hrs 48 mins  █████████████████████▒░░░   85.47 %
-C          3 hrs 52 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.81 %
-Makefile   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
-Text       5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-Other      3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Assembly   28 hrs 18 mins  █████████████████████▓░░░   86.16 %
+C          4 hrs 2 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.28 %
+Makefile   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+Text       5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Other      3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
