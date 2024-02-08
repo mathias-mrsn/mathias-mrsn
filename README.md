@@ -49,11 +49,11 @@ Hi, I'm supposed to say something about myself but I don't know what to say, and
 ```rust
 Total Time: 38 hrs 41 mins
 
-Assembly         33 hrs 22 mins  █████████████████████▒░░░   85.55 %
-C++              1 hr 26 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
-Docker           1 hr 22 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
-Makefile         1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+Assembly         34 hrs 44 mins  ██████████████████████▒░░   89.05 %
+C++              1 hr 32 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
+Docker           58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
 Bash             27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+Makefile         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
 ```
 
 <!--END_SECTION:waka-->
