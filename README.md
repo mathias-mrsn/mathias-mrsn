@@ -8,7 +8,7 @@
 
 
 <!-- ![snap](images/Snap_dark.png?raw=true) -->
-![snap](images/Snap_dark_bg.png?raw=true)
+<!-- ![snap](images/Snap_dark_bg.png?raw=true) -->
 
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,)](https://skillicons.dev) -->
@@ -24,17 +24,17 @@ Hi, I'm supposed to say something about myself but I don't know what to say, and
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,ts,html,css,markdown,java,php,&perline=10)](https://skillicons.dev)
 
-## 📕&nbsp;Frameworks and Libraries for Web Development
+<!-- ## 📕&nbsp;Frameworks and Libraries for Web Development
 
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,materialui,nestjs,postgres,express,nodejs,figma,vercel,&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,materialui,nestjs,postgres,express,nodejs,figma,vercel,&perline=10)](https://skillicons.dev) -->
 
 ## 🔧&nbsp;Tools 
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,linux,docker,kubernetes,nginx,postman&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,linux,docker,kubernetes&perline=9)](https://skillicons.dev)
 
 ## 📝&nbsp;IDEs
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,neovim,idea&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,neovim&perline=9)](https://skillicons.dev)
 
 ## 📈&nbsp;Weekly development breakdown
 
