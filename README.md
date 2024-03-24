@@ -47,13 +47,13 @@ Hi, I'm supposed to say something about myself but I don't know what to say, and
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 3 hrs 19 mins
+Total Time: 4 hrs 42 mins
 
-Markdown    2 hrs 5 mins    ██████████████▒░░░░░░░░░░   57.28 %
-Terraform   1 hr 3 mins     ███████▒░░░░░░░░░░░░░░░░░   28.77 %
-Other       20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.19 %
-Python      7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
-C           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+Markdown    3 hrs 5 mins    █████████████▓░░░░░░░░░░░   54.31 %
+Other       58 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.20 %
+Terraform   50 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.82 %
+HTML        22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
+Bash        12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
 ```
 
 <!--END_SECTION:waka-->
