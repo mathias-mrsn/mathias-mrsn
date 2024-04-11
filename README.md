@@ -47,13 +47,13 @@ Hi, I'm supposed to say something about myself but I don't know what to say, and
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 50 mins
+Total Time: 8 hrs 11 mins
 
-tmux       33 mins         ████████████████░░░░░░░░░   64.26 %
-Assembly   16 mins         ███████▓░░░░░░░░░░░░░░░░░   30.63 %
-Other      1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-C          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+kdl          3 hrs 32 mins   ██████████▒░░░░░░░░░░░░░░   41.50 %
+Python       2 hrs           ██████░░░░░░░░░░░░░░░░░░░   23.53 %
+C            48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
+tmux         40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
+TypeScript   39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
 ```
 
 <!--END_SECTION:waka-->
