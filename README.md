@@ -47,13 +47,13 @@ Hi, I'm supposed to say something about myself but I don't know what to say, and
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 16 hrs 14 mins
+Total Time: 13 hrs 40 mins
 
-Lua          6 hrs 36 mins   █████████▓░░░░░░░░░░░░░░░   38.49 %
-kdl          2 hrs 41 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.66 %
-Rust         2 hrs 19 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.51 %
-TOML         1 hr 26 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
-netrw        1 hr 19 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
+Lua         4 hrs 25 mins   ███████▓░░░░░░░░░░░░░░░░░   30.33 %
+kdl         2 hrs 41 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.44 %
+Rust        1 hr 52 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.86 %
+TOML        1 hr 26 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 %
+netrw       1 hr 16 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
 ```
 
 <!--END_SECTION:waka-->
