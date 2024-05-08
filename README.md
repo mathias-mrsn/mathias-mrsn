@@ -47,13 +47,13 @@ Hi, I'm supposed to say something about myself but I don't know what to say, and
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 6 hrs 38 mins
+Total Time: 8 hrs 33 mins
 
-C          4 hrs 24 mins   ████████████████▒░░░░░░░░   65.62 %
-Python     1 hr 51 mins    ███████░░░░░░░░░░░░░░░░░░   27.57 %
-Markdown   17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
-Rust       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-Other      4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+C          4 hrs 24 mins   ████████████▓░░░░░░░░░░░░   51.11 %
+Rust       1 hr 58 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.89 %
+Python     1 hr 51 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.48 %
+Markdown   17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+Other      4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 ```
 
 <!--END_SECTION:waka-->
