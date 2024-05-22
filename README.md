@@ -47,13 +47,13 @@ Hi, I'm supposed to say something about myself but I don't know what to say, and
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 47 mins
+Total Time: 5 hrs 31 mins
 
-Bash       35 mins         ██████████████████▓░░░░░░   74.90 %
-Makefile   7 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.56 %
-kdl        1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
-Lua        1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
-TOML       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+Rust        2 hrs 23 mins   ██████████▓░░░░░░░░░░░░░░   43.17 %
+Terraform   1 hr 46 mins    ████████░░░░░░░░░░░░░░░░░   31.94 %
+Bash        46 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.99 %
+HCL         19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
+Makefile    7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
 ```
 
 <!--END_SECTION:waka-->
