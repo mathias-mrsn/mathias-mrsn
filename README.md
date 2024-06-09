@@ -47,13 +47,13 @@ Hi, I'm supposed to say something about myself but I don't know what to say, and
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 6 hrs 37 mins
+Total Time: 6 hrs 19 mins
 
-Terraform    1 hr 33 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.97 %
-CSS          1 hr 32 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.61 %
-C            1 hr 10 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.64 %
-Markdown     42 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 %
-swayconfig   41 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.69 %
+CSS          1 hr 32 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.98 %
+Terraform    1 hr 22 mins    █████░░░░░░░░░░░░░░░░░░░░   20.60 %
+C            1 hr 10 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.69 %
+Markdown     42 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.57 %
+Bash         27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
 ```
 
 <!--END_SECTION:waka-->
