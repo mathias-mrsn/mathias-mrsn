@@ -47,13 +47,13 @@ Hi, I'm supposed to say something about myself but I don't know what to say, and
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 3 hrs 56 mins
+Total Time: 3 hrs 52 mins
 
-Text        1 hr 50 mins    ███████████▓░░░░░░░░░░░░░   46.75 %
-Markdown    1 hr 39 mins    ██████████▒░░░░░░░░░░░░░░   41.93 %
-conf        15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
-Bash        10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
-gitconfig   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Text        1 hr 50 mins    ████████████░░░░░░░░░░░░░   47.53 %
+Markdown    1 hr 39 mins    ██████████▓░░░░░░░░░░░░░░   42.63 %
+conf        11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
+Bash        10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
+gitconfig   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
 <!--END_SECTION:waka-->
