@@ -49,10 +49,11 @@ Hi, I'm supposed to say something about myself but I don't know what to say, and
 ```rust
 Total Time: 18 mins
 
-Makefile   9 mins          █████████████▒░░░░░░░░░░░   53.96 %
-Docker     5 mins          ████████░░░░░░░░░░░░░░░░░   32.41 %
-Ruby       2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.62 %
-TOML       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+Makefile   9 mins          █████████████░░░░░░░░░░░░   52.51 %
+Docker     5 mins          ████████░░░░░░░░░░░░░░░░░   31.54 %
+Ruby       2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.28 %
+Bash       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+TOML       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
 ```
 
 <!--END_SECTION:waka-->
