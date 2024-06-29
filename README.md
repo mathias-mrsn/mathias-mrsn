@@ -47,13 +47,13 @@ Hi, I'm supposed to say something about myself but I don't know what to say, and
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 5 hrs 16 mins
+Total Time: 4 hrs 12 mins
 
-Text       3 hrs 7 mins    ██████████████▒░░░░░░░░░░   57.71 %
-Lua        1 hr 28 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.19 %
-JSON       14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
-kdl        12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
-Docker     7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+Text       2 hrs 2 mins    ███████████▓░░░░░░░░░░░░░   47.26 %
+Lua        1 hr 28 mins    ████████▒░░░░░░░░░░░░░░░░   33.91 %
+JSON       14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
+kdl        12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
+Docker     7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
 ```
 
 <!--END_SECTION:waka-->
