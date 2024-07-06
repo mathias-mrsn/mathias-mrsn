@@ -47,9 +47,10 @@ Hi, I'm supposed to say something about myself but I don't know what to say, and
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 0 secs
+Total Time: 7 mins
 
-No activity tracked
+Other   14 mins         ████████████████▒░░░░░░░░   65.27 %
+Lua     7 mins          ████████▓░░░░░░░░░░░░░░░░   34.73 %
 ```
 
 <!--END_SECTION:waka-->
