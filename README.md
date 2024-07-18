@@ -47,13 +47,13 @@ Hi, I'm supposed to say something about myself but I don't know what to say, and
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 26 hrs 1 min
+Total Time: 23 hrs 8 mins
 
-TypeScript   14 hrs 12 mins  █████████████▓░░░░░░░░░░░   54.58 %
-YAML         5 hrs 24 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.78 %
-Docker       3 hrs 38 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.96 %
-JSON         1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
-TSConfig     21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+TypeScript   8 hrs 28 mins   █████████░░░░░░░░░░░░░░░░   36.57 %
+YAML         5 hrs 24 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.33 %
+Docker       3 hrs 32 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.31 %
+Terraform    2 hrs 20 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
+Python       1 hr 8 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
 ```
 
 <!--END_SECTION:waka-->
