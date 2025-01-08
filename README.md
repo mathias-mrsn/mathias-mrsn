@@ -28,9 +28,13 @@ Hi, I'm supposed to say something about myself but I don't know what to say, and
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 0 secs
+Total Time: 24 hrs 26 mins
 
-No activity tracked
+Rust        23 hrs 29 mins  ████████████████████████░   96.02 %
+tmux        24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+Lua         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+conf        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+TOML        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
