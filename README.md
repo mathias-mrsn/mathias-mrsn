@@ -28,13 +28,11 @@ Hi, I'm supposed to say something about myself but I don't know what to say, and
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 16 hrs 28 mins
+Total Time: 18 hrs 16 mins
 
-Rust        15 hrs 59 mins  ████████████████████████▒   97.08 %
-Markdown    18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-ld          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
-Bash        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-TOML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Rust   18 hrs 14 mins  █████████████████████████   99.88 %
+Bash   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Lua    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
