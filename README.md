@@ -28,11 +28,11 @@ Hi, I'm supposed to say something about myself but I don't know what to say, and
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 25 hrs 34 mins
+Total Time: 26 hrs 49 mins
 
-Rust    23 hrs 54 mins  ███████████████████████▒░   93.33 %
-ld      1 hr 31 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
-TOML    7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Rust    25 hrs 9 mins   ███████████████████████▒░   93.64 %
+ld      1 hr 31 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
+TOML    7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 Other   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 Lua     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
