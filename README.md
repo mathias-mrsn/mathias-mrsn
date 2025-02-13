@@ -28,9 +28,11 @@ Hi, I'm supposed to say something about myself but I don't know what to say, and
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 5 hrs 53 mins
+Total Time: 7 hrs 17 mins
 
-Rust   5 hrs 53 mins   █████████████████████████   100.00 %
+Rust       6 hrs 46 mins   ███████████████████████▒░   93.09 %
+ld         20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
+Makefile   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
 ```
 
 <!--END_SECTION:waka-->
