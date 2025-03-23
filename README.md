@@ -28,11 +28,9 @@ Hi, I'm supposed to say something about myself but I don't know what to say, and
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 6 mins
+Total Time: 0 secs
 
-Other    9 mins          ███████████████░░░░░░░░░░   60.27 %
-Python   6 mins          █████████▓░░░░░░░░░░░░░░░   38.85 %
-HTML     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
