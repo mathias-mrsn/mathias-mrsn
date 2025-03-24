@@ -30,7 +30,9 @@ Hi, I'm supposed to say something about myself but I don't know what to say, and
 ```rust
 Total Time: 0 secs
 
-No activity tracked
+conf    0 secs          ████████████████▒░░░░░░░░   65.79 %
+netrw   0 secs          █████▒░░░░░░░░░░░░░░░░░░░   21.05 %
+Other   0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.16 %
 ```
 
 <!--END_SECTION:waka-->
