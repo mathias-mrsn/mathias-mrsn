@@ -28,13 +28,13 @@ Hi, I'm supposed to say something about myself but I don't know what to say, and
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 9 hrs 37 mins
+Total Time: 8 hrs 40 mins
 
-Rust         4 hrs 48 mins   ████████████▒░░░░░░░░░░░░   48.82 %
-Terraform    3 hrs 9 mins    ████████░░░░░░░░░░░░░░░░░   32.04 %
-YAML         24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
-Other        14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
-Bash         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+Rust         3 hrs 52 mins   ███████████░░░░░░░░░░░░░░   43.52 %
+Terraform    3 hrs 9 mins    █████████░░░░░░░░░░░░░░░░   35.46 %
+YAML         24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
+Other        14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+Bash         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
 ```
 
 <!--END_SECTION:waka-->
