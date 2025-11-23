@@ -28,10 +28,9 @@ Hi, I'm supposed to say something about myself but I don't know what to say, and
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 3 hrs 38 mins
+Total Time: 53 mins
 
-Terraform   3 hrs 38 mins   █████████████████████████   99.97 %
-JSON        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Terraform   53 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
